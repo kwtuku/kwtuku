@@ -1,4 +1,3 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kwtuku)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kwtuku&count_private=true&show_icons=true" />
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=kwtuku&layout=compact)
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwtuku" />
